@@ -1,5 +1,7 @@
-// This is my attempt to implement separate functions within a single function.
+// This was my attempt to implement separate functions within a single function.
 // I was also trying to make the code as unreadable as possible.
+// BTW, I thought this would be more efficient than using functions.
+// It was not.
 
 package fibonacci
 
